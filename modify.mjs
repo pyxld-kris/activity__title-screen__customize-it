@@ -1,6 +1,6 @@
 /**** WELCOME! *********************************************/
 /**
- * Move the sun to the left side of the sky!
+ * Play around and customize your own title screen!
  * 
  * ----------------------------------------------------------
  * After making a change: save this file, then press the refresh

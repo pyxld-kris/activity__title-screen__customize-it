@@ -10,7 +10,7 @@ Key Concepts: syntax, code execution order, screen space, variables, functions
 
 #### GOAL:
 
-Move the sun to the left side of the sky!
+Play around and customize your own title screen!
 
 Open the "modify.mjs" file to begin
 
